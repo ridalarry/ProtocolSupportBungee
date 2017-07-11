@@ -88,7 +88,7 @@ public enum ProtocolVersion {
 	@Deprecated
 	public static ProtocolVersion fromId(int id){
 		switch (id) {
-			case 355: {
+			case 335: {
 				return MINECRAFT_1_12;
 			}
 			case 316: {
