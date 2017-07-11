@@ -9,14 +9,14 @@ To make this plugin Work on its best you will need the following
 You can make this plugin disallow cracked players to join which will make the server in online mode 
 https://www.spigotmc.org/resources/fastlogin.14153/download?version=115502
 
-3. If you want to use fastlogin and you have errors related to sqlite then add sqlite driver to your bungeecord jar file
-Follow these instructions
+If you want to use fastlogin and you have errors related to sqlite then add sqlite driver to your bungeecord jar file
+Follow these instructions:
 
-A. Download the SQLite driver .jar from here: https://bitbucket.org/xerial/sqlite-jdbc/downloads
-B. Open your BungeeCord/Waterfall jar with any archiver program
-C. Open the SQLite driver with any archiver program
-D. Copy the contents (the "org"-folder) from the SQLite driver to BungeeCord
-E. Now just use the SQLite settings in the ChangeSkin config.
+1. Download the SQLite driver .jar from here: https://bitbucket.org/xerial/sqlite-jdbc/downloads
+2. Open your BungeeCord/Waterfall jar with any archiver program
+3. Open the SQLite driver with any archiver program
+4. Copy the contents (the "org"-folder) from the SQLite driver to BungeeCord
+5. Now just use the SQLite settings in the ChangeSkin config.
 
 
 ProtocolSupportBungee
