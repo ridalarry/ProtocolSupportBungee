@@ -5,7 +5,8 @@ I am just using google and trying to find solutions
 
 To make this plugin Work on its best you will need the following
 1. Use this version of BungeeCord (This plugin doesn't support 1.7 so you need hexacord, and this version, because some codes have changed in the new bungee) https://github.com/HexagonMC/BungeeCord/releases/download/v111/BungeeCord.jar
-2. If your server is on online mode and you have errors with failed to login turn it to offline mode and use FastLogin
+2. Use ViaVersion to allow 1.11.2 and 1.12 (1.12 doesn't work for some reason) https://www.spigotmc.org/resources/viaversion.19254/download?version=164381
+3. If your server is on online mode and you have errors with failed to login turn it to offline mode and use FastLogin
 You can make this plugin disallow cracked players to join which will make the server in online mode 
 https://www.spigotmc.org/resources/fastlogin.14153/download?version=115502
 
