@@ -1,4 +1,4 @@
-!!! This plugin is no longer maintained
+!!! Trying to allow 1.11.2 and 1.12 to work with this plugin
 
 
 ProtocolSupportBungee
